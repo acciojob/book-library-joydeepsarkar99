@@ -27,8 +27,12 @@ body{
 	justify-content:center;
 }
 .book_name{
+	background-color:rgb(46, 204, 113);
 	text-transform:uppercase;
 	font-weight:900;
+}
+.book_author{
+	background-color:rgb(46, 204, 113);
 }
 .book_price{
 	width:100%;
